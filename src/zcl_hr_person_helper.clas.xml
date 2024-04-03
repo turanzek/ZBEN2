@@ -1,0 +1,30 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<abapGit version="v1.0.0" serializer="LCL_OBJECT_CLAS" serializer_version="v1.0.0">
+ <asx:abap xmlns:asx="http://www.sap.com/abapxml" version="1.0">
+  <asx:values>
+   <VSEOCLASS>
+    <CLSNAME>ZCL_HR_PERSON_HELPER</CLSNAME>
+    <LANGU>T</LANGU>
+    <DESCRIPT>Personel yardımcı sınıfı</DESCRIPT>
+    <STATE>1</STATE>
+    <CLSCCINCL>X</CLSCCINCL>
+    <FIXPT>X</FIXPT>
+    <UNICODE>X</UNICODE>
+   </VSEOCLASS>
+   <DESCRIPTIONS_SUB>
+    <SEOSUBCOTX>
+     <CMPNAME>GET_PERNR_FROM_UNAME</CMPNAME>
+     <SCONAME>EV_PERNR</SCONAME>
+     <LANGU>T</LANGU>
+     <DESCRIPT>HR ana verileri raporlaması için standart seçimler</DESCRIPT>
+    </SEOSUBCOTX>
+    <SEOSUBCOTX>
+     <CMPNAME>GET_PERNR_FROM_UNAME</CMPNAME>
+     <SCONAME>IV_UNAME</SCONAME>
+     <LANGU>T</LANGU>
+     <DESCRIPT>Kullanıcı adı</DESCRIPT>
+    </SEOSUBCOTX>
+   </DESCRIPTIONS_SUB>
+  </asx:values>
+ </asx:abap>
+</abapGit>

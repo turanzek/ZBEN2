@@ -1,0 +1,36 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<abapGit version="v1.0.0" serializer="LCL_OBJECT_DTEL" serializer_version="v1.0.0">
+ <asx:abap xmlns:asx="http://www.sap.com/abapxml" version="1.0">
+  <asx:values>
+   <DD04V>
+    <ROLLNAME>ZBEN_DE_BENEFIT_ID</ROLLNAME>
+    <DDLANGUAGE>E</DDLANGUAGE>
+    <DOMNAME>NUMC5</DOMNAME>
+    <HEADLEN>16</HEADLEN>
+    <SCRLEN1>10</SCRLEN1>
+    <SCRLEN2>16</SCRLEN2>
+    <SCRLEN3>16</SCRLEN3>
+    <DDTEXT>Yan Hak Numarası</DDTEXT>
+    <REPTEXT>Yan Hak Numarası</REPTEXT>
+    <SCRTEXT_S>Yan Hak Nu</SCRTEXT_S>
+    <SCRTEXT_M>Yan Hak Numarası</SCRTEXT_M>
+    <SCRTEXT_L>Yan Hak Numarası</SCRTEXT_L>
+    <DTELMASTER>E</DTELMASTER>
+    <REFKIND>D</REFKIND>
+   </DD04V>
+   <I18N_LANGS>
+    <LANGU>T</LANGU>
+   </I18N_LANGS>
+   <DD04_TEXTS>
+    <item>
+     <DDLANGUAGE>T</DDLANGUAGE>
+     <DDTEXT>Yan Hak Numarası</DDTEXT>
+     <REPTEXT>Yan Hak Numarası</REPTEXT>
+     <SCRTEXT_S>Yan Hak Nu</SCRTEXT_S>
+     <SCRTEXT_M>Yan Hak Numarası</SCRTEXT_M>
+     <SCRTEXT_L>Yan Hak Numarası</SCRTEXT_L>
+    </item>
+   </DD04_TEXTS>
+  </asx:values>
+ </asx:abap>
+</abapGit>

@@ -1,0 +1,150 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<abapGit version="v1.0.0" serializer="LCL_OBJECT_MSAG" serializer_version="v1.0.0">
+ <asx:abap xmlns:asx="http://www.sap.com/abapxml" version="1.0">
+  <asx:values>
+   <T100A>
+    <ARBGB>ZBEN</ARBGB>
+    <MASTERLANG>T</MASTERLANG>
+   </T100A>
+   <T100>
+    <T100>
+     <SPRSL>E</SPRSL>
+     <ARBGB>ZBEN</ARBGB>
+     <MSGNR>001</MSGNR>
+     <TEXT>The same item can only be purchased once!</TEXT>
+    </T100>
+    <T100>
+     <SPRSL>E</SPRSL>
+     <ARBGB>ZBEN</ARBGB>
+     <MSGNR>002</MSGNR>
+     <TEXT>Please choose a side benefit!</TEXT>
+    </T100>
+    <T100>
+     <SPRSL>E</SPRSL>
+     <ARBGB>ZBEN</ARBGB>
+     <MSGNR>003</MSGNR>
+     <TEXT>Please select file!</TEXT>
+    </T100>
+    <T100>
+     <SPRSL>E</SPRSL>
+     <ARBGB>ZBEN</ARBGB>
+     <MSGNR>004</MSGNR>
+     <TEXT>Please enter the amount you want to sell!</TEXT>
+    </T100>
+    <T100>
+     <SPRSL>E</SPRSL>
+     <ARBGB>ZBEN</ARBGB>
+     <MSGNR>005</MSGNR>
+     <TEXT>The amount you want to sell should not exceed the food budget ( &amp; )!</TEXT>
+    </T100>
+    <T100>
+     <SPRSL>E</SPRSL>
+     <ARBGB>ZBEN</ARBGB>
+     <MSGNR>006</MSGNR>
+     <TEXT>You cannot exceed your current budget. Excess amount &amp;.</TEXT>
+    </T100>
+    <T100>
+     <SPRSL>E</SPRSL>
+     <ARBGB>ZBEN</ARBGB>
+     <MSGNR>007</MSGNR>
+     <TEXT>Success.</TEXT>
+    </T100>
+    <T100>
+     <SPRSL>E</SPRSL>
+     <ARBGB>ZBEN</ARBGB>
+     <MSGNR>008</MSGNR>
+     <TEXT>Please select a row!</TEXT>
+    </T100>
+    <T100>
+     <SPRSL>E</SPRSL>
+     <ARBGB>ZBEN</ARBGB>
+     <MSGNR>009</MSGNR>
+     <TEXT>You have exceeded your overall available budget. Excess amount &amp;.</TEXT>
+    </T100>
+    <T100>
+     <SPRSL>E</SPRSL>
+     <ARBGB>ZBEN</ARBGB>
+     <MSGNR>010</MSGNR>
+     <TEXT>You cannot delete the meal card from the basket!</TEXT>
+    </T100>
+    <T100>
+     <SPRSL>E</SPRSL>
+     <ARBGB>ZBEN</ARBGB>
+     <MSGNR>011</MSGNR>
+     <TEXT>Enter the discount rate as a decimal less than 1.</TEXT>
+    </T100>
+   </T100>
+   <I18N_LANGS>
+    <LANGU>T</LANGU>
+   </I18N_LANGS>
+   <T100T>
+    <T100T>
+     <SPRSL>T</SPRSL>
+     <ARBGB>ZBEN</ARBGB>
+    </T100T>
+   </T100T>
+   <T100_TEXTS>
+    <item>
+     <SPRSL>T</SPRSL>
+     <MSGNR>000</MSGNR>
+     <TEXT>&amp; &amp; &amp;</TEXT>
+    </item>
+    <item>
+     <SPRSL>T</SPRSL>
+     <MSGNR>001</MSGNR>
+     <TEXT>Aynı üründen sadece bir kez satın alınabilir!</TEXT>
+    </item>
+    <item>
+     <SPRSL>T</SPRSL>
+     <MSGNR>002</MSGNR>
+     <TEXT>Lütfen yan hak seçiniz!</TEXT>
+    </item>
+    <item>
+     <SPRSL>T</SPRSL>
+     <MSGNR>003</MSGNR>
+     <TEXT>Lütfen dosya seçiniz!</TEXT>
+    </item>
+    <item>
+     <SPRSL>T</SPRSL>
+     <MSGNR>004</MSGNR>
+     <TEXT>Lütfen satmak istediğiniz tutarı giriniz!</TEXT>
+    </item>
+    <item>
+     <SPRSL>T</SPRSL>
+     <MSGNR>005</MSGNR>
+     <TEXT>Satmak istediğiniz tutar yemek bütçesini ( &amp; ) aşmamalıdır!</TEXT>
+    </item>
+    <item>
+     <SPRSL>T</SPRSL>
+     <MSGNR>006</MSGNR>
+     <TEXT>Mevcut bütçenizi aşamazsınız. Aşım tutarı &amp;.</TEXT>
+    </item>
+    <item>
+     <SPRSL>T</SPRSL>
+     <MSGNR>007</MSGNR>
+     <TEXT>İşlem başarılı.</TEXT>
+    </item>
+    <item>
+     <SPRSL>T</SPRSL>
+     <MSGNR>008</MSGNR>
+     <TEXT>Lütfen bir satır seçiniz!</TEXT>
+    </item>
+    <item>
+     <SPRSL>T</SPRSL>
+     <MSGNR>009</MSGNR>
+     <TEXT>Genel mevcut bütçenizi aştınız. Aşım tutarı &amp;.</TEXT>
+    </item>
+    <item>
+     <SPRSL>T</SPRSL>
+     <MSGNR>010</MSGNR>
+     <TEXT>Yemek kartını sepetten silemezsiniz!</TEXT>
+    </item>
+    <item>
+     <SPRSL>T</SPRSL>
+     <MSGNR>011</MSGNR>
+     <TEXT>İndirim oranını 1 den küçük ondalıklı şekilde giriniz.</TEXT>
+    </item>
+   </T100_TEXTS>
+  </asx:values>
+ </asx:abap>
+</abapGit>

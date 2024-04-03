@@ -1,0 +1,30 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<abapGit version="v1.0.0" serializer="LCL_OBJECT_DTEL" serializer_version="v1.0.0">
+ <asx:abap xmlns:asx="http://www.sap.com/abapxml" version="1.0">
+  <asx:values>
+   <DD04V>
+    <ROLLNAME>ZBEN_DE_CAT_ID</ROLLNAME>
+    <DOMNAME>ZBEN_D_CAT_ID</DOMNAME>
+    <HEADLEN>10</HEADLEN>
+    <SCRLEN1>10</SCRLEN1>
+    <SCRLEN2>10</SCRLEN2>
+    <SCRLEN3>10</SCRLEN3>
+    <DTELMASTER>T</DTELMASTER>
+    <REFKIND>D</REFKIND>
+   </DD04V>
+   <I18N_LANGS>
+    <LANGU>T</LANGU>
+   </I18N_LANGS>
+   <DD04_TEXTS>
+    <item>
+     <DDLANGUAGE>T</DDLANGUAGE>
+     <DDTEXT>Catalog ID</DDTEXT>
+     <REPTEXT>Catalog ID</REPTEXT>
+     <SCRTEXT_S>Catalog ID</SCRTEXT_S>
+     <SCRTEXT_M>Catalog ID</SCRTEXT_M>
+     <SCRTEXT_L>Catalog ID</SCRTEXT_L>
+    </item>
+   </DD04_TEXTS>
+  </asx:values>
+ </asx:abap>
+</abapGit>

@@ -1,0 +1,23 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<abapGit version="v1.0.0" serializer="LCL_OBJECT_TRAN" serializer_version="v1.0.0">
+ <asx:abap xmlns:asx="http://www.sap.com/abapxml" version="1.0">
+  <asx:values>
+   <TSTC>
+    <TCODE>ZUSER</TCODE>
+    <PGMNA>ZBEN_ORKESTRA_USER</PGMNA>
+    <DYPNO>1000</DYPNO>
+    <CINFO>gA==</CINFO>
+   </TSTC>
+   <TSTCC>
+    <TCODE>ZUSER</TCODE>
+    <S_WIN32>X</S_WIN32>
+   </TSTCC>
+   <I18N_TPOOL>
+    <TSTCT>
+     <SPRSL>T</SPRSL>
+     <TTEXT>ORKESTRA USER</TTEXT>
+    </TSTCT>
+   </I18N_TPOOL>
+  </asx:values>
+ </asx:abap>
+</abapGit>

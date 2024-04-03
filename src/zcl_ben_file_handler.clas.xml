@@ -1,0 +1,60 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<abapGit version="v1.0.0" serializer="LCL_OBJECT_CLAS" serializer_version="v1.0.0">
+ <asx:abap xmlns:asx="http://www.sap.com/abapxml" version="1.0">
+  <asx:values>
+   <VSEOCLASS>
+    <CLSNAME>ZCL_BEN_FILE_HANDLER</CLSNAME>
+    <LANGU>T</LANGU>
+    <DESCRIPT>TT Çarşı - Dosya Yönetimi</DESCRIPT>
+    <STATE>1</STATE>
+    <CLSCCINCL>X</CLSCCINCL>
+    <FIXPT>X</FIXPT>
+    <UNICODE>X</UNICODE>
+   </VSEOCLASS>
+   <DESCRIPTIONS_SUB>
+    <SEOSUBCOTX>
+     <CMPNAME>GET_BENEFITS_IMAGE</CMPNAME>
+     <SCONAME>ES_FILES</SCONAME>
+     <LANGU>T</LANGU>
+     <DESCRIPT>TT Çarşı Dosyalar</DESCRIPT>
+    </SEOSUBCOTX>
+    <SEOSUBCOTX>
+     <CMPNAME>GET_BENEFITS_IMAGE</CMPNAME>
+     <SCONAME>IV_BENEFIT_ID</SCONAME>
+     <LANGU>T</LANGU>
+     <DESCRIPT>Yan Hak Numarası</DESCRIPT>
+    </SEOSUBCOTX>
+    <SEOSUBCOTX>
+     <CMPNAME>GET_BENEFITS_IMAGE</CMPNAME>
+     <SCONAME>IV_CATALOG_ID</SCONAME>
+     <LANGU>T</LANGU>
+     <DESCRIPT>Catalog ID</DESCRIPT>
+    </SEOSUBCOTX>
+    <SEOSUBCOTX>
+     <CMPNAME>GET_SERVICE_ENTRY_FILES</CMPNAME>
+     <SCONAME>IV_BENEFIT_ID</SCONAME>
+     <LANGU>T</LANGU>
+     <DESCRIPT>Yan Hak Numarası</DESCRIPT>
+    </SEOSUBCOTX>
+    <SEOSUBCOTX>
+     <CMPNAME>GET_SERVICE_ENTRY_FILES</CMPNAME>
+     <SCONAME>IV_CATALOG_ID</SCONAME>
+     <LANGU>T</LANGU>
+     <DESCRIPT>Catalog ID</DESCRIPT>
+    </SEOSUBCOTX>
+    <SEOSUBCOTX>
+     <CMPNAME>UPDATE_FILES_SERVICES</CMPNAME>
+     <SCONAME>IS_MODEL</SCONAME>
+     <LANGU>T</LANGU>
+     <DESCRIPT>TT Çarşı - Uygulama Modeli</DESCRIPT>
+    </SEOSUBCOTX>
+    <SEOSUBCOTX>
+     <CMPNAME>UPLOAD_FILE</CMPNAME>
+     <SCONAME>CS_FILE</SCONAME>
+     <LANGU>T</LANGU>
+     <DESCRIPT>TT Çarşı Dosyalar</DESCRIPT>
+    </SEOSUBCOTX>
+   </DESCRIPTIONS_SUB>
+  </asx:values>
+ </asx:abap>
+</abapGit>

@@ -1,0 +1,123 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<abapGit version="v1.0.0" serializer="LCL_OBJECT_CLAS" serializer_version="v1.0.0">
+ <asx:abap xmlns:asx="http://www.sap.com/abapxml" version="1.0">
+  <asx:values>
+   <VSEOCLASS>
+    <CLSNAME>ZCL_BEN_DATA_PROVIDER</CLSNAME>
+    <LANGU>T</LANGU>
+    <DESCRIPT>TT Çarşı Veri sağlayıcı</DESCRIPT>
+    <STATE>1</STATE>
+    <CLSCCINCL>X</CLSCCINCL>
+    <FIXPT>X</FIXPT>
+    <UNICODE>X</UNICODE>
+   </VSEOCLASS>
+   <DESCRIPTIONS>
+    <SEOCOMPOTX>
+     <CMPNAME>GS_PERSON_INFO</CMPNAME>
+     <LANGU>T</LANGU>
+     <DESCRIPT>Çarşı yan haklar table type</DESCRIPT>
+    </SEOCOMPOTX>
+    <SEOCOMPOTX>
+     <CMPNAME>GT_BENEFITS</CMPNAME>
+     <LANGU>T</LANGU>
+     <DESCRIPT>Çarşı yan haklar structure</DESCRIPT>
+    </SEOCOMPOTX>
+    <SEOCOMPOTX>
+     <CMPNAME>GT_CATALOGS</CMPNAME>
+     <LANGU>T</LANGU>
+     <DESCRIPT>Çarşı yan hak kataloğu structure</DESCRIPT>
+    </SEOCOMPOTX>
+    <SEOCOMPOTX>
+     <CMPNAME>IO_PROVIDER</CMPNAME>
+     <LANGU>T</LANGU>
+     <DESCRIPT>TT Çarşı Veri sağlayıcı</DESCRIPT>
+    </SEOCOMPOTX>
+    <SEOCOMPOTX>
+     <CMPNAME>MS_MODEL</CMPNAME>
+     <LANGU>T</LANGU>
+     <DESCRIPT>TT Çarşı - Uygulama Modeli</DESCRIPT>
+    </SEOCOMPOTX>
+   </DESCRIPTIONS>
+   <DESCRIPTIONS_SUB>
+    <SEOSUBCOTX>
+     <CMPNAME>GET_APPLICATION_MODEL</CMPNAME>
+     <SCONAME>RS_APP_MODEL</SCONAME>
+     <LANGU>T</LANGU>
+     <DESCRIPT>TT Çarşı - Uygulama Modeli</DESCRIPT>
+    </SEOSUBCOTX>
+    <SEOSUBCOTX>
+     <CMPNAME>GET_BENEFIT</CMPNAME>
+     <SCONAME>ET_BENEFITS</SCONAME>
+     <LANGU>T</LANGU>
+     <DESCRIPT>Çarşı yan haklar table type</DESCRIPT>
+    </SEOSUBCOTX>
+    <SEOSUBCOTX>
+     <CMPNAME>GET_BENEFIT</CMPNAME>
+     <SCONAME>IV_BENEFIT_ID</SCONAME>
+     <LANGU>T</LANGU>
+     <DESCRIPT>BENEFIT_ID</DESCRIPT>
+    </SEOSUBCOTX>
+    <SEOSUBCOTX>
+     <CMPNAME>GET_BENEFIT</CMPNAME>
+     <SCONAME>IV_CATALOG_ID</SCONAME>
+     <LANGU>T</LANGU>
+     <DESCRIPT>Catalog ID</DESCRIPT>
+    </SEOSUBCOTX>
+    <SEOSUBCOTX>
+     <CMPNAME>GET_CATALOGS</CMPNAME>
+     <SCONAME>RT_CATALOGS</SCONAME>
+     <LANGU>T</LANGU>
+     <DESCRIPT>Çarşı yan hak kataloğu structure</DESCRIPT>
+    </SEOSUBCOTX>
+    <SEOSUBCOTX>
+     <CMPNAME>GET_CATALOG_BENEFITS</CMPNAME>
+     <SCONAME>ES_MODEL</SCONAME>
+     <LANGU>T</LANGU>
+     <DESCRIPT>TT Çarşı - Uygulama Modeli</DESCRIPT>
+    </SEOSUBCOTX>
+    <SEOSUBCOTX>
+     <CMPNAME>GET_CATALOG_BENEFITS</CMPNAME>
+     <SCONAME>IV_CATALOG_ID</SCONAME>
+     <LANGU>T</LANGU>
+     <DESCRIPT>Catalog ID</DESCRIPT>
+    </SEOSUBCOTX>
+    <SEOSUBCOTX>
+     <CMPNAME>GET_DEFINED_BENEFITS</CMPNAME>
+     <SCONAME>RT_DEFINED_BENEFITS</SCONAME>
+     <LANGU>T</LANGU>
+     <DESCRIPT>Çarşı yan hak kataloğu structure</DESCRIPT>
+    </SEOSUBCOTX>
+    <SEOSUBCOTX>
+     <CMPNAME>GET_INSTANCE</CMPNAME>
+     <SCONAME>RT_PROVIDER</SCONAME>
+     <LANGU>T</LANGU>
+     <DESCRIPT>TT Çarşı Veri sağlayıcı</DESCRIPT>
+    </SEOSUBCOTX>
+    <SEOSUBCOTX>
+     <CMPNAME>GET_PERIOD</CMPNAME>
+     <SCONAME>ES_PERIOD</SCONAME>
+     <LANGU>T</LANGU>
+     <DESCRIPT>Çarşı dönemler</DESCRIPT>
+    </SEOSUBCOTX>
+    <SEOSUBCOTX>
+     <CMPNAME>GET_ROOT_INFO</CMPNAME>
+     <SCONAME>ES_RETURN</SCONAME>
+     <LANGU>T</LANGU>
+     <DESCRIPT>TT Çarşı Tanımlı Yan Haklar table type</DESCRIPT>
+    </SEOSUBCOTX>
+    <SEOSUBCOTX>
+     <CMPNAME>GET_TEXT</CMPNAME>
+     <SCONAME>ES_RETURN</SCONAME>
+     <LANGU>T</LANGU>
+     <DESCRIPT>TT Çarşı Tanımlı Yan Haklar table type</DESCRIPT>
+    </SEOSUBCOTX>
+    <SEOSUBCOTX>
+     <CMPNAME>SET_STATIC_DATAS</CMPNAME>
+     <SCONAME>CT_MODEL</SCONAME>
+     <LANGU>T</LANGU>
+     <DESCRIPT>TT Çarşı - Uygulama Modeli</DESCRIPT>
+    </SEOSUBCOTX>
+   </DESCRIPTIONS_SUB>
+  </asx:values>
+ </asx:abap>
+</abapGit>
